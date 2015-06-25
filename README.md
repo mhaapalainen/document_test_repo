@@ -6,7 +6,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Be sure you can log into the JIRA interface: jira.someurl.com.
+
+
+Be sure you can log into the JIRA interface: [For additional setup](https://github.com/mhaapalainen/document_test_repo/tree/master/Team1)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
