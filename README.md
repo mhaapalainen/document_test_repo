@@ -4,9 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # JIRA
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Is this editor any better than traditional wiki?
 
 Be sure you can log into the JIRA interface: [For additional setup](https://github.com/mhaapalainen/document_test_repo/tree/master/Team1)
 
@@ -18,7 +16,6 @@ Don't have the Eng OOO calendar?
 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
 
 #### TIPS
  
